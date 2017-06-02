@@ -4,7 +4,6 @@ A bootstrap based WordPress starter theme
 Version: 1.0
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
-Tags: one-column, two-columns, right-sidebar, flexible-header, full-width-template
 
 == Description ==
 
